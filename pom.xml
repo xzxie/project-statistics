@@ -2,13 +2,15 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.project-statistics</groupId>
+  <groupId>com.statistics</groupId>
   <artifactId>project-statistics</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>project-statistics</name>
   <url>http://maven.apache.org</url>
+  
+  <description>statistics system solution</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
